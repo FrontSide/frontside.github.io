@@ -1,6 +1,6 @@
 ## @frontside
 
-[Agile Learnings](https://github.com/FrontSide/frontside.github.io/agile-learnings.md) to maintain and preview the content for your website in Markdown files.
+[Agile Learnings](https://frontside.github.io/frontside.github.io/agile-learnings.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
