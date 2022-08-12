@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## @frontside
 
-You can use the [editor on GitHub](https://github.com/FrontSide/frontside.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+[Agile Learnings](https://github.com/FrontSide/frontside.github.io/agile-learnings.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
