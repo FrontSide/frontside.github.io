@@ -6,6 +6,9 @@ categories:
 tags:
   - ireland
   - austria
+toc: true
+toc_label: "Table of Content"
+toc_icon: "heart"
 ---
 
 Some text
