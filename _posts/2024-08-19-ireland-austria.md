@@ -8,10 +8,18 @@ tags:
   - austria
 ---
 
+Some text
+
+## 2 Header
+
 Some text here
 
 
+### 3 Header
+
 Some more text 
 
+
+**bold text**
 
 Some more text
