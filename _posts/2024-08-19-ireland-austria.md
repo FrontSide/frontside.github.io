@@ -10,10 +10,8 @@ tags:
 
 Some text here
 
-## Header with 2
 
 Some more text 
 
-### Header with 3
 
 Some more text
