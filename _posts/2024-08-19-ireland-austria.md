@@ -1,6 +1,6 @@
 ---
 title: "20 years Austria, 10 years Ireland: A Digest"
-date: 2024-08-19T08:30:00-00:00
+date: 2024-08-19T07:30:00-00:00
 categories:
   - blog
 tags:
