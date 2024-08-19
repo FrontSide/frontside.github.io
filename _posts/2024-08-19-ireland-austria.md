@@ -9,6 +9,7 @@ tags:
 toc: true
 toc_label: "Table of Content"
 toc_icon: "heart"
+classes: wide
 ---
 
 Some text
