@@ -40,10 +40,14 @@ I will be mixing fact and opinion. If it's a fact, I will do my very best to inc
 Naturally, not all my opinions will reflect every one else's so it may be useful to know where I'm "coming from". 
 The first thing that is to be said upfront is that I live a fairly economically-privileged live. This is very important to know since one's economic situation will influence virtually all perceptiosn and everything one does.
 
-My quality of life has, subjectively (very important), improved after moving to Ireland. How? Why? I don't know, it just somehow did. 
-However, my migration has coincided with many other changes in my life and there are pleny of confounding factors which I won't all go into. 
-Most notably, though, it coincided with me becoming - what I would consider to be - an adult (I was a late bloomer), meaning I started doing things I wasn't doing before and stopped doing things I did before. 
-For these matters, I lack experience to make an objective comparison (though I doubt a believeable objective comparison could be made anyway, due to the many variables influencing our experiences).
+My quality of life has - subjectively - improved after moving to Ireland. How? Why? I don't know, it just somehow did.
+As a result, I tend to get quite defensive whenever people - especially those of similar backgrounds to mine - complain about the country extensively. 
+It is almost a brotherly dynamic (*I may curse you, but I'll fight anyone else who dares to do the same*).
+
+It's important to note that my migration has coincided with many other changes in my life and there are pleny of confounding factors - which I won't all go into - 
+that make it impossible to gauge to which extend the move contributed to this perceived improvement in life quality.
+Most notably, though, it coincided with me becoming - what I would consider to be - an adult (I was a late bloomer). I started doing things I wasn't doing before and stopped doing things I did before. 
+I do therefore lack experience to make an objective comparison on many matters (though I doubt a believeable objective comparison could be made anyway, due to the many variables influencing our experiences).
 
 
 # History
