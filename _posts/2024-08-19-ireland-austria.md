@@ -54,12 +54,15 @@ I do therefore lack the first hand experience to make an objective comparison on
 Just one example to show what I mean: I got a mortgage and bought a house in Dublin, I did not do the same in Austria. So whatever I say in relation to housing (except for the "hard facts"), is tainted by this difference.
 For Ireland I can bring in my own first-hand experience, for Austria I need to rely on anecdotes from others and the conclusions I may draw from the available reference material (such as statistics or newspaper articles).
 
+One more thing: This should be considered a living document. I may updated and extend the text at any time. A history of changes will, however, be available in [Git version control](http://github.com/frontside/frontside.github.io).
+
 Now that you have the context and come equipped with the required grain of salt, let's get started by talking about the countries' histories.
 
 # History
 
-Some text here
-
+Both Ireland and Austria have experienced a significant change in their setup towards the end of the First World War in 1918. On the 21st of November 1916, Austria's second-last and - arguably - most famous monarch, Kaiser Franz Joseph I [died from pneumonia](https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria#Death) in Schonbrunn palace, one of Habsburg monarchy's main residences.
+This was two years into WWI triggered by the [assasination](https://en.wikipedia.org/wiki/Archduke_Franz_Ferdinand_of_Austria) of heir presumptive to the very same throne, Archduke Franz Ferdinand in Sarajevo.
+While neither Franz Ferdinand's nor Franz Joseph's death immediately ended Habsburg's [636 year](https://en.wikipedia.org/wiki/Habsburg_monarchy) reign, the dynasty's end has been looming for decades *[citation needed]* and eventually ended on November 11th 1918 with Kaiser Karl I [waiving all rights](https://hdgoe.at/Abdankung-Kaiser-Karls) to participate in any state business, coinciding with Armstice Day and the end of the war. *[fact check]*
 
 ### 3 Header
 
