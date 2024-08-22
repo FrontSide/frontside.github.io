@@ -58,11 +58,31 @@ One more thing: This should be considered a living document. I may updated and e
 
 Now that you have the context and come equipped with the required grain of salt, let's get started by talking about the countries' histories.
 
-# History
+# History (todo: refine)
 
-Both Ireland and Austria have experienced a significant change in their setup towards the end of the First World War in 1918. On the 21st of November 1916, Austria's second-last and - arguably - most famous monarch, Kaiser Franz Joseph I [died from pneumonia](https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria#Death) in Schonbrunn palace, one of Habsburg monarchy's main residences.
-This was two years into WWI triggered by the [assasination](https://en.wikipedia.org/wiki/Archduke_Franz_Ferdinand_of_Austria) of heir presumptive to the very same throne, Archduke Franz Ferdinand in Sarajevo.
-While neither Franz Ferdinand's nor Franz Joseph's death immediately ended Habsburg's [636 year](https://en.wikipedia.org/wiki/Habsburg_monarchy) reign, the dynasty's end has been looming for decades *[citation needed]* and eventually ended on November 11th 1918 with Kaiser Karl I [waiving all rights](https://hdgoe.at/Abdankung-Kaiser-Karls) to participate in any state business, coinciding with Armstice Day and the end of the war. *[fact check]*
+Both Ireland and Austria have experienced significant and defining political changes towards the end of the First World War in 1918. 
+
+On the 21st of November 1916, Austria's second-last and - arguably - most famous monarch, Kaiser Franz Joseph I [died from pneumonia](https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria#Death) in Schonbrunn palace, 
+one of the Habsburg monarchy's main residences in Vienna.
+This was two years into WWI, which itself was triggered by the [assasination and death](https://en.wikipedia.org/wiki/Archduke_Franz_Ferdinand_of_Austria) of heir presumptive to the very same throne, 
+Archduke Franz Ferdinand (Franz Joseph's nephew) in Sarajevo.
+
+![](<> "Kaiser Franz")
+
+{% capture fig_img %}
+![]({{ site.url }}{{ site.baseurl }}/assets/images/joseph1sissi.jpg)
+{% endcapture %}
+
+<figure width=20>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption> Kaiser Franz Joseph I with his wife and cousin Kaiserin Elisabeth "Sissi" with whom he had four children. </figcaption>
+</figure>
+
+While neither Franz Ferdinand's nor Franz Joseph's death immediately ended Habsburg's [636 year](https://en.wikipedia.org/wiki/Habsburg_monarchy) reign, 
+the dynasty's end has been looming for decades *[citation needed]* and eventually ended on November 11th 1918 with Kaiser Karl I [waiving all rights](https://hdgoe.at/Abdankung-Kaiser-Karls) 
+to participate in any state business, coinciding with [armstice](https://en.wikipedia.org/wiki/Armistice_of_11_November_1918) between the Allies (the Entente) and Germany, marking the end of the war. 
+
+
 
 ### 3 Header
 
