@@ -11,3 +11,25 @@ $link-color: red;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+.toc {
+  border: none;
+}
+
+.toc .nav__title {
+  background: $background-color;
+  color: $primary-color;
+}
+
+.nav__title .fa-heart {
+  color: red
+}
+
+.toc a {
+  font-size: 1.5em;
+}
+
+.page__content {
+  p, li, dl {
+    font-size: 0.85em;
+  }
+}
