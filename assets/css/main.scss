@@ -25,11 +25,17 @@ $link-color: red;
 }
 
 .toc a {
-  font-size: 1.5em;
+  font-size: 1em;
+  font-family: $sans-serif; 
 }
 
 .page__content {
   p, li, dl {
-    font-size: 0.85em;
+    font-size: 0.9em;
+    font-family: $sans-serif; 
   }
+}
+
+figcaption {
+  font-family: $sans-serif; 
 }
