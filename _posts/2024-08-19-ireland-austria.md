@@ -82,14 +82,24 @@ Now that you have the context and come equipped with the required grain of salt,
 
 ## What even is Austria?
 
-The more observant amonst you may have noticed that Austria (today) is surrounded by land (it is landlocked). Ireland meanwhile is surrounded by water (it is sealocked).
-When we talk about Ireland, we almost always refer to the whole geographical island, 
+The more observant amongst you may have noticed that Austria (today) is surrounded by land (it is landlocked). Ireland meanwhile is surrounded by water (it is sealocked).
+When we talk about Ireland, we almost always refer to the whole landmass that forms the island, 
 which has been looking pretty much the same way it does today for at least [12000 years](https://www.gsi.ie/en-ie/education/the-geology-of-ireland/Pages/Ireland-through-geological-time.aspx).
-While Ireland has of course been subjected to [imperialistic activity](#empire-exit), its geographical outline remained the same and will remain the same for the foreseeable future,
+While Ireland has of course been subjected to [imperialistic activity](#empire-exit), the geographical area we refer to when we talk about *Ireland* has remained the same and will remain the same for the foreseeable future,
 short of changes due to rising sea levels and/or artificial [reclamation of landmass](https://www.irishtimes.com/property/residential/2022/11/24/hugh-wallace-the-time-is-right-to-reclaim-land-in-dublin-bay-for-new-homes/).
 As a result, it is fairly unambiguous what we mean when we talk about the *History of Ireland*.
 
-The same cannot be sait about Austria. One of the most popular Austrian History books - [Geschichte Oesterreichs](https://www.reclam.de/detail/978-3-15-011500-8/Geschichte_Oesterreichs) - begins with the chapter *What does "Asutria" mean?*.
+The same cannot be said about Austria. One of the most popular Austrian History books - [Geschichte Oesterreichs](https://www.reclam.de/detail/978-3-15-011500-8/Geschichte_Oesterreichs) - begins with the chapter *What does "Austria" mean?*.
+
+{% capture fig_img %}
+![]({{ site.url }}{{ site.baseurl }}/assets/images/austria-hungary-1914.png)
+{% endcapture %}
+
+<figure style="width:300px" class="align-right">
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption> Outline of the Austrian-Hungarian "Doppelmonarchie" at the start of WWI in 1914. </figcaption>
+</figure>
+
 
 
 ## Empire Exit
@@ -111,8 +121,9 @@ Archduke Franz Ferdinand (Franz Joseph's nephew) in Sarajevo.
 </figure>
 
 While neither Franz Ferdinand's nor Franz Joseph's death immediately ended Habsburg's [636 year](https://en.wikipedia.org/wiki/Habsburg_monarchy) reign, 
-the dynasty's end has been looming for decades *[citation needed]* and eventually ended on November 11th 1918 with Kaiser Karl I [waiving all rights](https://hdgoe.at/Abdankung-Kaiser-Karls) 
-to participate in any state business, coinciding with [armstice](https://en.wikipedia.org/wiki/Armistice_of_11_November_1918) between the Allies (the Entente) and Germany, marking the end of the war. 
+the dynasty's end has been [looming at least since the French Revolution](https://www.penguin.de/buecher/die-welt-der-habsburger/ebook/9783641041625)(p.TODO) (especially since Napoleon's wars, his [abolition of the *Ancien Regime*](https://www.britannica.com/place/France/Napoleon-and-the-Revolution) and the subsequent introduction of the [Civil Code](https://en.wikipedia.org/wiki/Napoleonic_Code)) 
+and eventually ended on November 11th 1918 with Kaiser Karl I [waiving all rights](https://hdgoe.at/Abdankung-Kaiser-Karls) 
+to participate in any state business, coinciding with the [armstice](https://en.wikipedia.org/wiki/Armistice_of_11_November_1918) between the Allies (the Entente) and Germany, marking the end of the war. 
 
 
 
