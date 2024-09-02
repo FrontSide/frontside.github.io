@@ -121,7 +121,8 @@ Archduke Franz Ferdinand (Franz Joseph's nephew) in Sarajevo.
 </figure>
 
 While neither Franz Ferdinand's nor Franz Joseph's death immediately ended Habsburg's [636 year](https://en.wikipedia.org/wiki/Habsburg_monarchy) reign, 
-the dynasty's end has been [looming at least since the French Revolution](https://www.penguin.de/buecher/die-welt-der-habsburger/ebook/9783641041625)(p.TODO) (especially since Napoleon's wars, his [abolition of the *Ancien Regime*](https://www.britannica.com/place/France/Napoleon-and-the-Revolution) and the subsequent introduction of the [Civil Code](https://en.wikipedia.org/wiki/Napoleonic_Code)) 
+the dynasty's end has been [looming at least since the French Revolution](https://www.penguin.de/buecher/die-welt-der-habsburger/ebook/9783641041625)(p.193, Walzer under der Kaeseglocke) 
+(especially since Napoleon's wars, his [abolition of the *Ancien Regime*](https://www.britannica.com/place/France/Napoleon-and-the-Revolution) and the subsequent introduction of the [Civil Code](https://en.wikipedia.org/wiki/Napoleonic_Code)) 
 and eventually ended on November 11th 1918 with Kaiser Karl I [waiving all rights](https://hdgoe.at/Abdankung-Kaiser-Karls) 
 to participate in any state business, coinciding with the [armstice](https://en.wikipedia.org/wiki/Armistice_of_11_November_1918) between the Allies (the Entente) and Germany, marking the end of the war. 
 
