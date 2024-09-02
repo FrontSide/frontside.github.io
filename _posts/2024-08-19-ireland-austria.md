@@ -121,11 +121,15 @@ Archduke Franz Ferdinand (Franz Joseph's nephew) in Sarajevo.
 </figure>
 
 While neither Franz Ferdinand's nor Franz Joseph's death immediately ended Habsburg's [636 year](https://en.wikipedia.org/wiki/Habsburg_monarchy) reign, 
-the dynasty's end has been [looming at least since the French Revolution](https://www.penguin.de/buecher/die-welt-der-habsburger/ebook/9783641041625)(p.193, Walzer under der Kaeseglocke) 
-(especially since Napoleon's wars, his [abolition of the *Ancien Regime*](https://www.britannica.com/place/France/Napoleon-and-the-Revolution) and the subsequent introduction of the [Civil Code](https://en.wikipedia.org/wiki/Napoleonic_Code)) 
-and eventually ended on November 11th 1918 with Kaiser Karl I [waiving all rights](https://hdgoe.at/Abdankung-Kaiser-Karls) 
-to participate in any state business, coinciding with the [armstice](https://en.wikipedia.org/wiki/Armistice_of_11_November_1918) between the Allies (the Entente) and Germany, marking the end of the war. 
+the monarchy concluded only shortly after on November 11th 1918 with Kaiser Karl I [waiving all rights](https://hdgoe.at/Abdankung-Kaiser-Karls) 
+to participate in any state business, coinciding with the WWI [armstice](https://en.wikipedia.org/wiki/Armistice_of_11_November_1918) between the Allies (the Entente) and Germany, marking the end of the war. 
 
+But the dynasty's end had been [looming at least since the French Revolution](https://www.penguin.de/buecher/die-welt-der-habsburger/ebook/9783641041625)(p.193, Walzer under der Kaeseglocke).
+Habsburg had to fight an uphill battle to retain its status quo in the wake of Napoleon's wars,
+his [abolition of the *Ancien Regime*](https://www.britannica.com/place/France/Napoleon-and-the-Revolution) and the subsequent introduction of the [Civil Code](https://en.wikipedia.org/wiki/Napoleonic_Code) 
+which attibuted rights to the citizens of France and the annexed territories and led to a more liberal and progressive way of living compared to the aristocracy-led Habsburg empire.
+
+The fear of losing grip on the established way of reign lead to the Congress of Vienna....
 
 
 ### 3 Header
